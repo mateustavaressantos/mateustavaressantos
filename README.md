@@ -1,6 +1,6 @@
 ## Olá Mundo 👋
 Sou o Mateus, estudante de engenharia de software!
-- 🔭 Hoje trabalho em projetos pessoais
+- 🔭 Hoje estou estagiando na prefeitura de Joinville
 - 🌱 Estudando Java
 - 📫 Contate-me no email: mat.tavares.2004@gmail.com
 
